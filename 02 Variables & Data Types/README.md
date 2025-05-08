@@ -2,4 +2,4 @@
 
 <center> <h1 style= "color:red"> PYTHON & DATA STRUCTURES & ALGORITHMS </h1> </center>
 
-<center> <h2 style= "color:orange"> variables & Data Types </h2> </center>
+<center> <h2 style= "color:orange"> Variables & Data Types </h2> </center>
