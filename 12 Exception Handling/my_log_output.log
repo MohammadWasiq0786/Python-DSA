@@ -1,0 +1,5 @@
+09-07-2025 21:19:26 - MyLogger - DEBUG - Debugging started.
+09-07-2025 21:19:26 - MyLogger - INFO - Info message for the user.
+09-07-2025 21:19:26 - MyLogger - WARNING - Warning issued.
+09-07-2025 21:19:26 - MyLogger - ERROR - An error occurred.
+09-07-2025 21:19:26 - MyLogger - CRITICAL - Critical failure!

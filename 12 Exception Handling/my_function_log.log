@@ -1,0 +1,30 @@
+2025-07-09 21:24:53,525 - mytestlogger - INFO -  value of a is {a} and b is {b}
+2025-07-09 21:24:53,526 - mytestlogger - INFO - we are doing a calculation operation by doing a addioin of {a} and {b}
+2025-07-09 21:24:53,526 - mytestlogger - INFO - it will return {a} + {b}
+2025-07-09 21:25:10,588 - mytestlogger - INFO -  value of a is 3 and b is 4
+2025-07-09 21:25:10,588 - mytestlogger - INFO - we are doing a calculation operation by doing a addioin of 3 and 4
+2025-07-09 21:25:10,590 - mytestlogger - INFO - it will return 3 + 4
+2025-07-09 21:25:20,652 - mytestlogger - INFO -  value of a is 3 and b is 4
+2025-07-09 21:25:20,653 - mytestlogger - INFO - we are doing a calculation operation by doing a addioin of 3 and 4
+2025-07-09 21:25:20,654 - mytestlogger - INFO - it will return 3 + 4
+2025-07-09 21:25:21,975 - mytestlogger - INFO -  value of a is 3 and b is 4
+2025-07-09 21:25:21,975 - mytestlogger - INFO - we are doing a calculation operation by doing a addioin of 3 and 4
+2025-07-09 21:25:21,977 - mytestlogger - INFO - it will return 3 + 4
+2025-07-09 21:25:22,622 - mytestlogger - INFO -  value of a is 3 and b is 4
+2025-07-09 21:25:22,622 - mytestlogger - INFO - we are doing a calculation operation by doing a addioin of 3 and 4
+2025-07-09 21:25:22,623 - mytestlogger - INFO - it will return 3 + 4
+2025-07-09 21:25:23,285 - mytestlogger - INFO -  value of a is 3 and b is 4
+2025-07-09 21:25:23,287 - mytestlogger - INFO - we are doing a calculation operation by doing a addioin of 3 and 4
+2025-07-09 21:25:23,288 - mytestlogger - INFO - it will return 3 + 4
+2025-07-09 21:25:23,926 - mytestlogger - INFO -  value of a is 3 and b is 4
+2025-07-09 21:25:23,928 - mytestlogger - INFO - we are doing a calculation operation by doing a addioin of 3 and 4
+2025-07-09 21:25:23,929 - mytestlogger - INFO - it will return 3 + 4
+2025-07-09 21:25:24,614 - mytestlogger - INFO -  value of a is 3 and b is 4
+2025-07-09 21:25:24,616 - mytestlogger - INFO - we are doing a calculation operation by doing a addioin of 3 and 4
+2025-07-09 21:25:24,617 - mytestlogger - INFO - it will return 3 + 4
+2025-07-09 21:25:25,284 - mytestlogger - INFO -  value of a is 3 and b is 4
+2025-07-09 21:25:25,285 - mytestlogger - INFO - we are doing a calculation operation by doing a addioin of 3 and 4
+2025-07-09 21:25:25,286 - mytestlogger - INFO - it will return 3 + 4
+2025-07-09 21:25:25,948 - mytestlogger - INFO -  value of a is 3 and b is 4
+2025-07-09 21:25:25,949 - mytestlogger - INFO - we are doing a calculation operation by doing a addioin of 3 and 4
+2025-07-09 21:25:25,950 - mytestlogger - INFO - it will return 3 + 4

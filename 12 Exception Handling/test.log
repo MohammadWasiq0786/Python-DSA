@@ -1,0 +1,8 @@
+WARNING:root:this is a warning msg
+ERROR:root:this is a error msg
+CRITICAL:root:this is a critical msg
+INFO:mytestlogger:my name is sudhanshu
+INFO:mytestlogger:my name is sudhanshu
+DEBUG:mytestlogger:i am debugging my code
+INFO:mytestlogger:my name is sudhanshu
+DEBUG:mytestlogger:i am debugging my code
